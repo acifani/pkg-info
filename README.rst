@@ -11,7 +11,7 @@ Install
 
 or
 
-``pip intall pkg_info``
+``pip install pkg_info``
 
 Usage
 -----
